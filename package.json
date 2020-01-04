@@ -1,0 +1,17 @@
+{
+  "name": "api-task",
+  "version": "1.0.0",
+  "description": "Api Task App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bhavesh",
+  "license": "0",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.4"
+  }
+}
